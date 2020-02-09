@@ -9,3 +9,9 @@ https://react-poko-game-app.netlify.com/
 ## Functionality
 
 ## Tech Stack
+- CSS3
+- JavaScript
+- ReactJS
+- NPM
+- Netlify
+ -Git
