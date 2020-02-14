@@ -14,4 +14,4 @@ https://react-poko-game-app.netlify.com/
 - ReactJS
 - NPM
 - Netlify
- -Git
+- Git
